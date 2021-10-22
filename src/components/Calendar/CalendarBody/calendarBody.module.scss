@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 50%;
+  height: 100%;
+  color: #fff;
+  font-weight: bold;
+}
+.month {
+  color: rgb(63, 203, 221);
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
